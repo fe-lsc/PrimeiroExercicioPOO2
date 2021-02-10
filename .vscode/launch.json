@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PrimeiroExercicioPooApplication<primeiro_exercicio_poo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.primeiro.exercicio.primeiro_exercicio_poo.PrimeiroExercicioPooApplication",
+            "projectName": "primeiro_exercicio_poo",
+            "args": ""
+        }
+    ]
+}
